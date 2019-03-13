@@ -2,7 +2,7 @@
 
 CampuStore is a campus O2O consumption platform,which based on SpringMVC,Mybatis and MySQL.  
     
-CampuStore 是一个基于 SpringMVC+Mybatis+MySLQ的一个校园 O2O 平台.  
+CampuStore 是一个基于 SpringMVC+Mybatis+MySQL的一个校园 O2O 平台.  
 
 ### 关于CampuStore(About CampuStore)
 - 1.本项目为作者的练习实践产品,并不作为商用  
